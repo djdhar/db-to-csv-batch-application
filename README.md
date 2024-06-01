@@ -1,4 +1,5 @@
 ### Sample Batch Application with
 ### Functionalities
 #### A) Read Data from Postgres DB
-#### B) Dump Data to CSV
+#### B) Modify the Data
+#### C) Dump Data to CSV
